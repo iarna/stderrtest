@@ -1,0 +1,10 @@
+{
+  "name": "stderrtest",
+  "version": "1.0.0",
+  "scripts": {
+    "e0stderr": "node e0stderr.js",
+    "e1stderr": "node e1stderr.js",
+    "e0stdout": "node e0stdout.js",
+    "e1stdout": "node e1stdout.js"
+  }
+}
